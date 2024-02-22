@@ -6,6 +6,9 @@ This is project use's Bundler to load all the file/assests & dependices etc and 
 
 - To known more about how and why i used the bundler this is the great article explainning the bits of deatils very well. [article](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70)
 
+# Live Demo 👁️
+ https://rahulporel.github.io/Random-Dad-s-Joke/
+
 # Includes the following features...
 
 - Click Button to load new joke every time
@@ -17,11 +20,7 @@ This is project use's Bundler to load all the file/assests & dependices etc and 
 - Source Maps
 - Caching
    
-# Live Demo 👁️
- https://routine-control.netlify.app/
-   
 # Snapshot of Random Dad's Joke
-
 ![Screenshot (247)](https://github.com/RahulPorel/Routine-Control/assets/98636266/3471f6d5-2092-45df-a968-065991868eef)
 
 
